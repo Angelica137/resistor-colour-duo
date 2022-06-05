@@ -1,6 +1,6 @@
 # Resistor colour duo
 
-From Exercism Python track. You can find the exercise [here 👉](https://exercism.org/tracks/python/exercises/resistor-color-duo)
+From Exercism Python track. You can find the exercise 👉 [here](https://exercism.org/tracks/python/exercises/resistor-color-duo)
 
 Create a program so that takes color names as input and outputs a two digit number, even if the input is more than two colors.
 
