@@ -6,6 +6,7 @@ Create a program so that takes color names as input and outputs a two digit numb
 
 The band colors are have the below number values. WHich conveniently map to a zero based indexing:
 
+- Black: 0
 - Brown: 1
 - Red: 2
 - Orange: 3
