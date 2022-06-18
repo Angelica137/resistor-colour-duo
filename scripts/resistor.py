@@ -3,6 +3,10 @@ def resistor(colour: str) -> int:
              "green", "blue", "violet", "grey", "white"]
     value = ""
     colours = colour.split("-")
-    for colour in colours[:2]:
-        value += str(bands.index(colour))
+    value = str(bands.index(colours[0])) + str(bands.index(colours[1]))
     return int(value)
+
+
+"""
+value += str(bands.index(colour)) for colour in colours[:2]
+"""
